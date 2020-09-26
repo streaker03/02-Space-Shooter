@@ -1,6 +1,19 @@
-# Godot-Project-Template
+# Project Name
+02-Space-Shooter 9/26/2020
 
-This is an empty Godot project that can be used as a starting place for Godot repositories. After creating and cloning the repository, download this as a zip file. Unzip it and copy the files into the repository folder. You should then be able to import the project.godot file (in the repository folder) as a project in Godot. Make sure you change the project name in the Project Settings.
+This is a simple shoot em up space game use "A" and "D" to control the ship and when the power up is ready press "X". Avoid and shoot to get the highest score possible.
 
 ## Implementation
-Created in Godot 3.2.2
+
+Godot 3.2.2
+
+## References
+Art assets from https://www.kenney.nl/assets/space-shooter-redux and https://opengameart.org/content/space-background
+
+## Future Development
+
+More content and ships
+
+## Created by
+
+Andrew Gostomelsky
